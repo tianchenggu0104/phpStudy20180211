@@ -1,0 +1,1 @@
+PHPStudy集成最新的Apache+PHP+MySQL+phpMyAdmin+ZendOptimizer，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境，不仅包括PHP调试环境，还包括了开发工具、开发手册等，总之学习PHP只需一个包。

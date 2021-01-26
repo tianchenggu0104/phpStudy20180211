@@ -1,0 +1,4 @@
+　　AuthName "提示信息"
+　　AuthType basic
+　　AuthUserFile  /webmaking/phpstudy/phpStudy20180211/PHPTutorial/WWW/html/members.txt
+　　require valid-user
